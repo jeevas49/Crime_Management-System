@@ -23,7 +23,7 @@ Login:
 
 # Usage
 
-  To use this Crime Management System, follow these steps:
+To use this Crime Management System, follow these steps:
 
 1.Clone the repository to your local machine.
 2.Compile the source code files using a C compiler.
