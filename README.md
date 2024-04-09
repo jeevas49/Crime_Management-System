@@ -23,17 +23,17 @@ Login:
 
 # Usage
 
-   To use this Crime Management System, follow these steps:
+  To use this Crime Management System, follow these steps:
 
-  1.Clone the repository to your local machine.
-  2.Compile the source code files using a C compiler.
-  3.Run the compiled executable file.
-  4.Use the provided login credentials to access the system functionalities.
-  5.Choose from the main menu options to perform desired operations such as adding, searching,   editing, viewing, or deleting prisoner records. 
+1.Clone the repository to your local machine.
+2.Compile the source code files using a C compiler.
+3.Run the compiled executable file.
+4.Use the provided login credentials to access the system functionalities.
+5.Choose from the main menu options to perform desired operations such as adding, searching,editing, viewing, or deleting prisoner records. 
 
 # Contributors
 
-       Contributions to improve and enhance the functionality of this Crime Management System are welcome. Feel free to fork the repository, make changes, and submit pull requests.
+Contributions to improve and enhance the functionality of this Crime Management System are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
 Let's work together to make crime management more efficient and effective!
       
